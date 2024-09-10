@@ -32,11 +32,11 @@ HikariCP (Connection Pool)
 
 Navigate to the backend folder:
 
-cd ems-backend
+$ cd ems-backend
 
 Run the backend using Maven:
 
-mvn spring-boot:run
+$ mvn spring-boot:run
 
 The backend should now be running at http://localhost:8080.
 
@@ -44,11 +44,11 @@ The backend should now be running at http://localhost:8080.
 
 Navigate to the frontend folder:
 
-cd ems-frontend
+$ cd ems-frontend
 
 Start the frontend development server:
 
-npm run dev
+$ npm run dev
 
 The frontend should now be running at http://localhost:3000.
 
